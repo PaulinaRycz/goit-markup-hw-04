@@ -416,8 +416,9 @@ width: 1600px;
     gap: 16px;
 }
 .footer-social-media-list {
-    height: 44x;
+    height: 44px;
     width: 44px;
+    list-style-type: none;
 }
 .footer-socialmedia-icon {
     display: flex;
@@ -429,9 +430,9 @@ width: 1600px;
     height: 100%;
 }
 .footer-svg {
-    fill: var(#FFFFFF);
+    fill: #FFFFFF;
 }
 .footer-socialmedia-icon:hover,
 .footer-socialmedia-icon:focus {
-    background-color: var (#2196F3);
+    background-color:#2196F3;
 }
