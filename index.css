@@ -457,10 +457,10 @@ background-color: #FFFFFF;
 border-radius: 50%;
 width: 100%;
 height: 100%;
-color: #757575;
+
 }
 .svg-li{
-fill: #AFB1B8;
+fill: #757575;
 }
 .link-svg:hover,
 .link-svg:focus{
