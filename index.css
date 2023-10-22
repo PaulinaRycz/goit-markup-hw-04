@@ -393,7 +393,6 @@ padding: 120px 0;
 }
 .image-work{
     display: flex;
-    justify-content: center;
     gap: 30px;
     list-style-type: none;
     margin: 0;
