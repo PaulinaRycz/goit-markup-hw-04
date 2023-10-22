@@ -266,9 +266,9 @@ padding-left: 215px;
     flex-wrap: wrap;
 }
 .container-footer{
-    width: 1600px;
-    height: 252px;
     background: #2F303A;
+    padding: 120px 0;
+    padding: 100px 0;
 }
 .link3 {
     font: 'Roboto';
@@ -279,11 +279,12 @@ padding-left: 215px;
     text-decoration: none;
 }
 .div-footer-one {
-    margin-right: 0px;
+    margin-right: 120px;
 }
 .contact-footer{
-    padding-top: 60px;
-    padding-left: 215px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1200px;
     display: flex;
     align-items: baseline;
     }
