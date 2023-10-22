@@ -382,20 +382,26 @@ padding: 120px 0;
     margin-bottom: 8px;
 }
 .what-we-do{
-    width: 1200px;
-    padding-right: 215px;
-    padding-bottom: 94px;
-    padding-left: 215px;
+   width: 1200px;
+   padding: 120px 0;
+   padding-top: 0;
 }
 .container-what-we-do{
   width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 .image-work{
     display: flex;
     justify-content: center;
     gap: 30px;
     list-style-type: none;
+    margin: 0;
+    padding-left: 0;
 } 
+.image-work-item{
+    flex-basis: calc((100% - 48px)/3);
+}
 .our-team{
 background: #F5F4FA;
 width: 1600px;
@@ -418,8 +424,7 @@ width: 1600px;
     font-size: 36px;
     line-height: 1.2;
     color: #212121;
-    padding-top: 94px;
-    padding-bottom: 50px;
+    margin-bottom: 72px;
     text-align: center;
 }
 .image-work2{
