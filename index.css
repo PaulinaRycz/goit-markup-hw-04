@@ -408,6 +408,7 @@ width: 1600px;
 .footer-social-media {
     display: flex;
     gap: 16px;
+    padding-left: 90px;
 }
 .footer-social-media-list {
     height: 44px;
