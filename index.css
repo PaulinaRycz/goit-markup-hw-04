@@ -457,12 +457,12 @@ height: 100%;
 text-decoration: none;
 }
 .svg-li{
-fill: #AFB1B8;
+fill: #2F303A
 }
 .link-svg:hover,
 .link-svg:focus{
 background-color: #2196F3;
-fill:#FFFFFF; 
+fill: #AFB1B8;
 }
 .team-description {
 padding: 32px 0;
