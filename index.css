@@ -1,13 +1,14 @@
-.title { font: 'Roboto';
-    font-weight: 900;
-    color: #FFFFFF;
-    font-size: 44px;
-    line-height: 60px;
-    letter-spacing: 0.06em;
-    width: 696px;
-    margin: 0 auto;
-    text-align: center;
-    margin-bottom: 48px;
+.title { 
+font: 'Roboto';
+font-weight: 900;
+color: #FFFFFF;
+font-size: 44px;
+line-height: 60px;
+letter-spacing: 0.06em;
+max-width: 696px;
+margin: 0 auto;
+text-align: center;
+margin-bottom: 48px;
     
 }
 .signatures {
@@ -99,18 +100,16 @@ font-size: 16px;
 line-height: 1.9;
 color:#FFFFFF;
 background: #2196F3;
-border: none;
 padding: 10px 0;
 letter-spacing: 0.06em;
 margin: 0 auto;
-width: 200px;
-justify-content: center;
+min-width: 200px;
 display: block;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .service-button:hover,
 .service-button:focus{
-    background: rgba(33, 150, 243, 1);
+    background: rgb(30, 148, 244);
 }
 .lorem-text{
     font-family: 'Roboto';
