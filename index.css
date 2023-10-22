@@ -408,12 +408,13 @@ width: 1600px;
 .footer-social-media {
     display: flex;
     gap: 16px;
-    padding-left: 90px;
+    
 }
 .footer-social-media-list {
     height: 44px;
     width: 44px;
     list-style-type: none;
+    padding-left: 90px;
 }
 .footer-socialmedia-icon {
     display: flex;
