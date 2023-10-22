@@ -66,7 +66,8 @@ padding-right: 50px;
     line-height: 1.7;
     color:#FFFFFF;
     background: #2F303A;
-    font-size: 14px;}
+    font-size: 14px;
+}
 .logo{ font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
@@ -301,7 +302,6 @@ font-size: 14px;
 font-weight: 700;
 line-height: 16px;
 margin-bottom: 16px;
-padding-left: 90px;
 
 }
 .social-links2{
@@ -443,14 +443,14 @@ padding: 120px 0;
 .footer-social-media {
     display: flex;
     gap: 16px;
-    
+    margin: 0;
+    padding: 0 15px;
+    list-style-type: none;
 }
 .conta
 .footer-social-media-list {
     height: 44px;
     width: 44px;
-    list-style-type: none;
-    
 }
 .footer-socialmedia-icon {
     display: flex;
@@ -460,6 +460,7 @@ padding: 120px 0;
     border-radius: 50%;
     width: 100%;
     height: 100%;
+    text-decoration: none;
 }
 .footer-svg {
     fill: #FFFFFF;
