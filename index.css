@@ -175,11 +175,10 @@ align-items: center;
 height: 80px;
 }
 .social-button{
-    width: 1200px;
     display: flex;
     justify-content: center;
-    margin-top: 94px;
     margin-bottom: 50px;
+    gap: 30px;
     
 }.text-button1{color: #212121;
     font: 'Roboto';
@@ -253,7 +252,15 @@ height: 80px;
 }
 .container-services{
 max-width: 1600px;
+}
+.services7{
 padding: 120px 0;
+padding: 96px 0 120px 0;
+}
+.container6{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 .figure{
     margin: 0;
