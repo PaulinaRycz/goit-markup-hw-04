@@ -557,7 +557,7 @@ border-radius: 4px;
 color: #AFB1B8;
 }
 .customers-icon-svg{
-
+color: currentColor;
 }
 .customers-icon:hover,
 .customers-icon:focus {
