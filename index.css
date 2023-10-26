@@ -502,9 +502,10 @@ align-items: center;
 border-radius: 50%;
 width: 100%;
 height: 100%;
+fill: #AFB1B8;
 }
 .svg-li{
-fill:#AFB1B8;
+
 }
 .link-svg:hover,
 .link-svg:focus{
@@ -557,7 +558,7 @@ background-color: #FFFFFF;
 color: #AFB1B8;
 }
 .customers-icon-svg{
-color: currentColor;
+color: #AFB1B8;
 }
 .customers-icon:hover,
 .customers-icon:focus {
