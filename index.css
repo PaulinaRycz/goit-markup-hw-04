@@ -550,12 +550,12 @@ display: flex;
 justify-content: center;
 align-items: center;
 border: 1px solid #AFB1B8;
+color: #AFB1B8;
 border-radius: 4px;
 background-color: #FFFFFF;
-color: #AFB1B8;
 }
 .customers-icon-svg{
-
+fill: currentColor;
 }
 .customers-icon:hover,
 .customers-icon:focus {
