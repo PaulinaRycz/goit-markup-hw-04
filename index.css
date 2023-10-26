@@ -509,9 +509,6 @@ fill:#AFB1B8;
 .link-svg:hover,
 .link-svg:focus{
 background-color: #2196F3;
-}
-.svg-li:hover,
-.svg-li:focus{
 fill: #FFFFFF;
 }
 .team-description {
@@ -557,15 +554,13 @@ align-items: center;
 border: 1px solid #AFB1B8;
 border-radius: 4px;
 background-color: #FFFFFF;
+color: #AFB1B8;
 }
 .customers-icon-svg{
-color: #AFB1B8;
+color: currentColor;
 }
 .customers-icon:hover,
 .customers-icon:focus {
 border-color: #2196F3;
-}
-.customers-icon-svg:hover,
-.customers-icon-svg:focus{
 color: #2196F3;
 }
