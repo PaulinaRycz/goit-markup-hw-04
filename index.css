@@ -508,7 +508,8 @@ color: currentColor;
 .link-svg:focus{
 background-color: #2196F3;
 }
-.svg-li.link:hover{
+.svg-li:hover,
+.svg-li:focus{
 color: #FFFFFF;
 }
 .team-description {
