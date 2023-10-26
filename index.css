@@ -557,10 +557,9 @@ border-radius: 4px;
 color: #AFB1B8;
 }
 .customers-icon-svg{
-color: #AFB1B8;
+
 }
 .customers-icon:hover,
 .customers-icon:focus {
 border-color: #2196F3;
-color: #2196F3;
 }
