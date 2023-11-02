@@ -24,7 +24,7 @@ font-size: 18px;
 line-height: 2;
 padding-left: 24px;
 text-decoration: none;
-border none;
+border-bottom: none;
 
 }
 .apps {
@@ -35,7 +35,7 @@ font-size: 16px;
 line-height: 1.9;
 padding-left: 24px;
 text-decoration: none;
-border:none;
+border-bottom: none;
 }
 .text {
     color:#212121;
@@ -295,7 +295,7 @@ margin-bottom: 94px;
 .portfolio2{
     padding: 32px 16px;
     text-decoration: none;
-    border: none;
+    border-bottom: none;
 }
 .projects{
     display: flex;
