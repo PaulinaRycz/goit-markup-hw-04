@@ -285,8 +285,12 @@ padding: 96px 0 120px 0;
     padding: 0 15px;
 }
 .figure{
-    margin: 0;
-   margin-bottom: 94px;
+margin: 0;
+margin-bottom: 94px;
+}
+.portfolio2{
+    border-top: none;
+    padding: 32px 16px;
 }
 .projects{
     display: flex;
