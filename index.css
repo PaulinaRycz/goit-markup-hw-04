@@ -43,6 +43,7 @@ padding-left: 24px;
     font-weight: 500;
     line-height: 1.1;
     font-size: 14px;
+    text-decoration: none;
 
 }
 .social-links .link:active, .link:hover { color: #2196F3;
