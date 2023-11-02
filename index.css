@@ -23,7 +23,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 2;
 padding-left: 24px;
-text-decoration: none;
+text-decoration:none;
 border-bottom: none;
 
 }
@@ -386,6 +386,7 @@ flex-basis: calc((100%-30px)/3);
 .image{
     border: 1px solid #EEEEEE;
     border-top: none;
+    text-decoration: none;
 }
 .image:hover,
 .image:focus {
